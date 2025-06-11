@@ -1,0 +1,14 @@
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\controller\ClienteController.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\controller\FacturaController.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\controller\MedidorController.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\dto\ClienteDTO.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\ElectricserviceApplication.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\model\Cliente.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\model\Factura.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\model\Medidor.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\repository\ClienteRepository.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\repository\FacturaRepository.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\repository\MedidorRepository.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\service\ClienteService.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\service\FacturaService.java
+C:\TM3100 Spring\electricservice\electricservice\src\main\java\electricservice\service\MedidorService.java

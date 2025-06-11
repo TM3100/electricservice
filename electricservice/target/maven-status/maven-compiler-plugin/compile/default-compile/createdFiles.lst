@@ -1,0 +1,14 @@
+electricservice\controller\FacturaController.class
+electricservice\model\Cliente.class
+electricservice\repository\ClienteRepository.class
+electricservice\service\ClienteService.class
+electricservice\repository\MedidorRepository.class
+electricservice\model\Factura.class
+electricservice\model\Medidor.class
+electricservice\dto\ClienteDTO.class
+electricservice\controller\ClienteController.class
+electricservice\service\FacturaService.class
+electricservice\controller\MedidorController.class
+electricservice\service\MedidorService.class
+electricservice\ElectricserviceApplication.class
+electricservice\repository\FacturaRepository.class
